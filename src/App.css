@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  background-color: #333;
+  color: #fff;
+}
+
+.Container{
+  text-align: center;
+}
+
+.title{
+  font-family: verdana;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  border: 2px solid #fff;
+  display: inline-block;
+  justify-content: center;
+  vertical-align: middle;
+  line-height: 100px;
+  font-size: 200%;
+  color: #fff;
+  font-weight: bold;
+
+}
+
+.board{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-40%);
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 320px;
+}
