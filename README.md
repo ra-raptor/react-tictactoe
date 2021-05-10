@@ -1,6 +1,7 @@
 A tic tac toe made in react
 
-hosted link : [vikas-tictactoe-react.netlify.app](vikas-tictactoe-react.netlify.app)
+hosted link : 
+<a href="https://vikas-tictactoe-react.netlify.app">vikas-tictactoe-react.netlify.app</a>
 
 ## Available Scripts
 
