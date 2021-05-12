@@ -3,6 +3,10 @@ A tic tac toe made in react
 hosted link : 
 <a href="https://vikas-tictactoe-react.netlify.app">vikas-tictactoe-react.netlify.app</a>
 
+![image](https://user-images.githubusercontent.com/54475223/118021032-6e207380-b378-11eb-8180-c7cd5b9bf781.png)
+![image](https://user-images.githubusercontent.com/54475223/118021229-a0ca6c00-b378-11eb-9cc1-1e38a55a28b6.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
